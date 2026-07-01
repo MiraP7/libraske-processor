@@ -17,15 +17,11 @@ VLibras Libraskê Processor Core.
 
 ## Table of Contents
 
-- **[Getting Started](#getting-started)**
   - [System Requirements](#system-requirements)
   - [Prerequisites](#prerequisites)
   - [Installing](#installing)
-- **[Deployment](#deployment)**
   - [Deploy Tools](#deploy-tools)
   - [Deploying](#deploying)
-- **[Contributors](#contributors)**
-- **[License](#license)**
 
 
 ## Getting Started
@@ -34,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### System Requirements
 
-* OS: Ubuntu 18.04.2 LTS (Bionic Beaver)
+* OS: a modern Linux distribution with Python 3.12+ available
 
 ### Prerequisites
 
@@ -58,9 +54,7 @@ sudo apt install -y rabbitmq-server --fix-missing
 
 After installing all the prerequisites, install the project by running the command:
 
-```sh
-cd worker/
-```
+From the repository root:
 
 ```sh
 sudo make install
@@ -68,12 +62,10 @@ sudo make install
 
 To test the installation, simply start the Translation Core with the following command:
 
-```sh
-cd worker/
-```
+From the repository root:
 
 ```sh
-make dev start
+make dev
 ```
 
 ## Contributors
