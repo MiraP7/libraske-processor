@@ -15,6 +15,8 @@ VLibras Libraskê Processor Core.
 ![License](https://img.shields.io/badge/license-LGPLv3-blue.svg)
 ![VLibras](https://img.shields.io/badge/vlibras%20suite-2019-green.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAUCAYAAAC9BQwsAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH4wIHCiw3NwjjIgAAAQ9JREFUOMuNkjErhWEYhq/nOBmkDNLJaFGyyyYsZzIZKJwfcH6AhcFqtCvFDzD5CQaTFINSlJJBZHI6J5flU5/P937fube357m63+d+nqBEagNYA9pAExgABxHxktU3882hjqtd9d7/+lCPsvpDZNA+MAXsABNU6xHYQ912ON2qC2qQ/X+J4XQXEVe/jwawCzwNAZp/NCLiDVgHejXgKIkVdGpm/FKXU/BJDfytbpWBLfWzAjxVx1Kuxwno5k84Jex0IpyzdN46qfYSjq18bzMHzQHXudifgQtgBuhHxGvKbaPg0Klaan7GdqE2W39LOq8OCo6X6kgdeJ4IZKUKWq1Y+GHVjF3gveTIe8BiCvwBEZmRAXuH6mYAAAAASUVORK5CYII=)
 
+> **Nota — Biblionx-Project:** este repositorio es una adaptación de [VLibras](https://www.vlibras.gov.br/) usada como referencia de arquitectura para el Trabajo de Grado de Biblionx (traductor de texto a Lengua de Señas Dominicana, LSRD). El componente activo y funcional del proyecto es [`modelo-traductor-lsrd`](https://github.com/Biblionx-Project/modelo-traductor-lsrd); este repo se conserva como referencia histórica del ecosistema VLibras original, no como dependencia activa del producto final. Ver la organización [Biblionx-Project](https://github.com/Biblionx-Project).
+
 ## Table of Contents
 
   - [System Requirements](#system-requirements)
